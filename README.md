@@ -34,16 +34,16 @@ Esta ferramenta é um programa de linha de comando (CLI) escrito em Go para gera
         └── main.go
         ```
 
-2.  **Navegue até o Diretório:** Abra seu terminal ou prompt de comando e navegue até o diretório `aezeed_tool`:
+2.  **Navegue até o Diretório:** Abra seu terminal ou prompt de comando e navegue até o diretório `DECODIFICADOR_SEED_XPRV`:
     ```bash
-    cd path/to/aezeed_tool
+    cd path/to/DECODIFICADOR_SEED_XPRV
     ```
 
 3.  **Compile (Opcional):** Você pode criar um executável independente:
     ```bash
-    go build -o aezeed_tool_cli
+    go build -o DECODIFICADOR_SEED_XPRV_cli
     ```
-    Isso criará um arquivo chamado `aezeed_tool_cli` (ou `aezeed_tool_cli.exe` no Windows) no diretório atual.
+    Isso criará um arquivo chamado `DECODIFICADOR_SEED_XPRV_cli` (ou `DECODIFICADOR_SEED_XPRV_cli.exe` no Windows) no diretório atual.
 
 4.  **Execute:**
     *   **Usando `go run` (sem compilar):**
@@ -52,9 +52,9 @@ Esta ferramenta é um programa de linha de comando (CLI) escrito em Go para gera
         ```
     *   **Executando o arquivo compilado:**
         ```bash
-        ./aezeed_tool_cli 
+        ./DECODIFICADOR_SEED_XPRV_cli 
         ```
-        (No Windows, use: `aezeed_tool_cli.exe`)
+        (No Windows, use: `DECODIFICADOR_SEED_XPRV_cli.exe`)
 
 ## Como Usar
 
